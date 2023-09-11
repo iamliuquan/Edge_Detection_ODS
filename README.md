@@ -1,6 +1,6 @@
 # Edge_Detection_ODS
 
--- ODS/eval_edge.py
-res_dir: generated edge map
-gt_dir: contour annotation
+-- ODS/eval_edge.py   <br />
+res_dir: generated edge map  <br />
+gt_dir: contour annotation   <br />
 
